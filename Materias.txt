@@ -2,3 +2,6 @@ POO I
 POO II
 Basa de Datos
 Aplicaciones Web
+creditos libres II
+Proyecto social
+Matematicas discretas
